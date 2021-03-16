@@ -1,2 +1,5 @@
-# simple_http_server
-simple http server supporting Access-Control-Allow-Origin
+```python
+python db_server.py
+```
+
+Serving the files and allowing Access-Control-Allow-Origin
